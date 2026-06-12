@@ -9,7 +9,8 @@ The analysis combines SQL, Python, SQLite, and Power BI to uncover business insi
 ---
 
 ## Dashboard Preview
-hr_attrition_dashboard.png
+
+![Dashboard Preview](hr_attrition_dashboard.png)
 ---
 
 ## Business Objective
